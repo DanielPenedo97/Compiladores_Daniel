@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Relatório Implementação</title>
 </head>
 <body>
     <h2>1. Introdução</h2>
