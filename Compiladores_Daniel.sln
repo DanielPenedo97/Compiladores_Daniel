@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Compiladores", "Compiladores", "{84833169-EB1B-4A14-94E6-5B22CF4B3D7E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Compiladores", "Compiladores\Escopo\Compiladores.csproj", "{E0D11CB3-6908-4BD0-B65A-029044725D90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0D11CB3-6908-4BD0-B65A-029044725D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0D11CB3-6908-4BD0-B65A-029044725D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0D11CB3-6908-4BD0-B65A-029044725D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0D11CB3-6908-4BD0-B65A-029044725D90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E0D11CB3-6908-4BD0-B65A-029044725D90} = {84833169-EB1B-4A14-94E6-5B22CF4B3D7E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A07EABC-7654-4011-95C2-9189914696A9}
+	EndGlobalSection
+EndGlobal

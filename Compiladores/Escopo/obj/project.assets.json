@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniels\\Downloads\\residencia_software_dotNet\\dotNet_Daniel\\Compiladores\\Escopo\\Compiladores.csproj",
+      "projectUniqueName": "C:\\Users\\Daniels\\Downloads\\Comp\\Compiladores_Daniel\\Compiladores\\Escopo\\Compiladores.csproj",
       "projectName": "Compiladores",
-      "projectPath": "C:\\Users\\Daniels\\Downloads\\residencia_software_dotNet\\dotNet_Daniel\\Compiladores\\Escopo\\Compiladores.csproj",
+      "projectPath": "C:\\Users\\Daniels\\Downloads\\Comp\\Compiladores_Daniel\\Compiladores\\Escopo\\Compiladores.csproj",
       "packagesPath": "C:\\Users\\Daniels\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daniels\\Downloads\\residencia_software_dotNet\\dotNet_Daniel\\Compiladores\\Escopo\\obj\\",
+      "outputPath": "C:\\Users\\Daniels\\Downloads\\Comp\\Compiladores_Daniel\\Compiladores\\Escopo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Daniels\\AppData\\Roaming\\NuGet\\NuGet.Config"
