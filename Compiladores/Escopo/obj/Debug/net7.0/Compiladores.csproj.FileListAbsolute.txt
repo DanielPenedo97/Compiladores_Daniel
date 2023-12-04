@@ -12,3 +12,17 @@ C:\Users\Daniels\Downloads\residencia_software_dotNet\dotNet_Daniel\Compiladores
 C:\Users\Daniels\Downloads\residencia_software_dotNet\dotNet_Daniel\Compiladores\Escopo\obj\Debug\net7.0\Compiladores.pdb
 C:\Users\Daniels\Downloads\residencia_software_dotNet\dotNet_Daniel\Compiladores\Escopo\obj\Debug\net7.0\Compiladores.genruntimeconfig.cache
 C:\Users\Daniels\Downloads\residencia_software_dotNet\dotNet_Daniel\Compiladores\Escopo\obj\Debug\net7.0\ref\Compiladores.dll
+C:\Users\Daniels\Downloads\Comp\Compiladores_Daniel\Compiladores\Escopo\bin\Debug\net7.0\Compiladores.exe
+C:\Users\Daniels\Downloads\Comp\Compiladores_Daniel\Compiladores\Escopo\bin\Debug\net7.0\Compiladores.deps.json
+C:\Users\Daniels\Downloads\Comp\Compiladores_Daniel\Compiladores\Escopo\bin\Debug\net7.0\Compiladores.runtimeconfig.json
+C:\Users\Daniels\Downloads\Comp\Compiladores_Daniel\Compiladores\Escopo\bin\Debug\net7.0\Compiladores.dll
+C:\Users\Daniels\Downloads\Comp\Compiladores_Daniel\Compiladores\Escopo\bin\Debug\net7.0\Compiladores.pdb
+C:\Users\Daniels\Downloads\Comp\Compiladores_Daniel\Compiladores\Escopo\obj\Debug\net7.0\Compiladores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniels\Downloads\Comp\Compiladores_Daniel\Compiladores\Escopo\obj\Debug\net7.0\Compiladores.AssemblyInfoInputs.cache
+C:\Users\Daniels\Downloads\Comp\Compiladores_Daniel\Compiladores\Escopo\obj\Debug\net7.0\Compiladores.AssemblyInfo.cs
+C:\Users\Daniels\Downloads\Comp\Compiladores_Daniel\Compiladores\Escopo\obj\Debug\net7.0\Compiladores.csproj.CoreCompileInputs.cache
+C:\Users\Daniels\Downloads\Comp\Compiladores_Daniel\Compiladores\Escopo\obj\Debug\net7.0\Compiladores.dll
+C:\Users\Daniels\Downloads\Comp\Compiladores_Daniel\Compiladores\Escopo\obj\Debug\net7.0\refint\Compiladores.dll
+C:\Users\Daniels\Downloads\Comp\Compiladores_Daniel\Compiladores\Escopo\obj\Debug\net7.0\Compiladores.pdb
+C:\Users\Daniels\Downloads\Comp\Compiladores_Daniel\Compiladores\Escopo\obj\Debug\net7.0\Compiladores.genruntimeconfig.cache
+C:\Users\Daniels\Downloads\Comp\Compiladores_Daniel\Compiladores\Escopo\obj\Debug\net7.0\ref\Compiladores.dll
