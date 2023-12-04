@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Relatório Implementação</title>
 </head>
 <body>
     <h2>1. Introdução</h2>
@@ -234,23 +233,19 @@ public string ObterTipo(string identificador){
     // BLOCO _principal_
     escopo.AbrirEscopo();
     Console.WriteLine("BLOCO _principal_");
-
     // Declara e atribui variáveis
     escopo.DeclararVariavel("a", valor: 10, tipo: "NUMERO");
     escopo.DeclararVariavel("b", valor: 20, tipo: "NUMERO");
     escopo.DeclararVariavel("x", tipo: "CADEIA");
-
     // PRINTs
     Console.WriteLine(escopo.ObterValor("b"));  // Saída: 20
     Console.WriteLine(escopo.ObterValor("a"));  // Saída: 10
-
     // Atribui valor à variável x
     escopo.AtribuirValor("x", "Ola mundo");
     // Atribui valor de a para x
     escopo.AtribuirValor("x", escopo.ObterValor("a"));
     // PRINT da variável x
     Console.WriteLine(escopo.ObterValor("x"));  // Saída: 10
-
     // BLOCO _n1_
     escopo.AbrirEscopo();
     Console.WriteLine("BLOCO _n1_");
@@ -260,9 +255,7 @@ public string ObterTipo(string identificador){
     // PRINTs dentro do bloco _n1_
     Console.WriteLine(escopo.ObterValor("b"));  // Saída: 20
     Console.WriteLine(escopo.ObterValor("c"));  // Saída: -0.45
-
     escopo.FecharEscopo();
-
     // BLOCO _n2_
     escopo.AbrirEscopo();
     Console.WriteLine("BLOCO _n2_");
@@ -271,13 +264,11 @@ public string ObterTipo(string identificador){
     // PRINTs dentro do bloco _n2_
     Console.WriteLine(escopo.ObterValor("a"));  // Saída: 10
     Console.WriteLine(escopo.ObterValor("b"));  // Saída: Compiladores
-
     escopo.AtribuirValor("a", 11);
     escopo.AtribuirValor("a", "Bloco2");
     // PRINTs dentro do bloco _n2_
     Console.WriteLine(escopo.ObterValor("a"));  // Saída: Bloco2
     Console.WriteLine(escopo.ObterValor("c"));  // Erro semântico: Variável 'c' não foi declarada.
-
     // BLOCO _n3_ dentro do escopo _n2_
     escopo.AbrirEscopo();
     Console.WriteLine("BLOCO _n3_");
@@ -294,14 +285,11 @@ public string ObterTipo(string identificador){
     escopo.AtribuirValor("e", escopo.ObterValor("d"));
     // PRINTs dentro do bloco _n3_
     Console.WriteLine(escopo.ObterValor("e"));  // Saída: Compiladores
-
     escopo.FecharEscopo();  // Fechar Bloco _n3_ dentro do escopo _n2_
-
     escopo.FecharEscopo();  // Fechar Bloco _n2_
     // PRINTs fora do bloco _n2_
     Console.WriteLine(escopo.ObterValor("c"));  // Erro semântico: Variável 'c' não foi declarada.
     Console.WriteLine(escopo.ObterValor("a"));  // Saída: Bloco2
-
     escopo.FecharEscopo(); //Fechar Bloco _principal_
             </code>
         </pre>
